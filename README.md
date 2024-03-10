@@ -102,7 +102,7 @@ Career Mentoring program , Mentored five students on STEM pathways in October 20
 
 #### AWARDS
 
-#### [Academic Excellence](https://github.com/dorjiyangzom/DorjiYangzom/blob/main/certificates/certificates_10.jpg)
+#### [Academic Excellence](https://github.com/dorjiyangzom/dorjiyangzoms/blob/main/certificates/certificates_10.jpg) 
 Issued by GCIT,  July 2023
 Associated with Royal University of Bhutan, Gyalpozhing College. Second Topper , B.Sc Informationa Technology  2023.
 
