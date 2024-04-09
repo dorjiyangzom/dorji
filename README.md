@@ -65,7 +65,7 @@ I am passionate about Web Developer and Data Analyst.
 
 - A virtual learning application is an android application that focuses on teaching basic Dzongkha Grammar to the Bhutanese people especially the students
 
-#### [Rain Date](https://github.com/Team-RainDate/Sign-Language-Classification)— Machine learning
+#### [Rain Date](https://github.com/Team-RainDate/RainDate-Project)— Machine learning
 
 - This project enhances rainfall prediction using machine learning techniques,benefiting multiple sectors and society. It analyzes recent advancements,provides insights for researchers, and aims to improve decision-making and preparedness through increased prediction accuracy
 
